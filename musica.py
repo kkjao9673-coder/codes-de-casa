@@ -1,5 +1,7 @@
 # salve salve
-"""
+
+#rock your body
+
 import sys
 from rich import print
 from time import sleep
@@ -53,7 +55,6 @@ def printLyrics():
         sleep(delays[i])
 
 printLyrics()
-""" 
 
 
 
@@ -89,7 +90,8 @@ printLyrics()
 
 
 
-"""
+# ULTIMA DANÇA
+
 from rich.console import Console
 import time
 
@@ -166,7 +168,6 @@ if __name__ == "__main__":
         ("__", 5, 2, "#454545"),
     ]
 typewriter(linhas)
-"""
 
 
 
@@ -181,6 +182,7 @@ typewriter(linhas)
 
 
 
+# CLT 
 
 
 from rich.console import Console
